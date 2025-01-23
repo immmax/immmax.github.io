@@ -1,0 +1,118 @@
+{
+    "beans": [
+        {
+            "id": 1,
+            "name": "Sweet Blue",
+            "price": 14.00,
+            "origin": "Brazil",
+            "location": "Daterra",
+            "altitude": "3800 feet",
+            "process": "Pulped (seim-washed), Natural, Pulped Raisin",
+            "cupping_notes": "Dark chocolate, pleasant spicy, balanced acidity, dense body, orange, light grape notes",
+            "about": "This outstanding blend reveals one of the finest specialty coffee. It has a superb aroma and tastes like an elegant, dark and spicy chocolate bar. Its moderate acidity is distinctive and has a good balance. Recommended uses - Espresso, drip/filtered.",
+            "image_url": "./img/coffee/brazil-sweet-blue.png"
+        },
+        {
+            "id": 2,
+            "name": "Colombian - Supremo",
+            "price": 12.00,
+            "origin": "Colombia",
+            "location": "Huila",
+            "altitude": "about 5000 feet",
+            "process": "",
+            "cupping_notes": "Hints of cocoa with soft cranberry-like acidity. Balanced, medium body. Refreshing finish reminiscent of cherries.",
+            "about": "The temperature variations during the day and night are essential to the quality of this Colombian. The low nighttime temperatures, associated with relatively high altitudes, reduce the coffee bean ripening rhythm and give it higher level if acidity and very particular sweet notes.",
+            "image_url": ""
+        },
+        {
+            "id": 3,
+            "name": "Colombian Decaf- EA Process",
+            "price": 12.00,
+            "origin": "Colombia",
+            "location": "",
+            "altitude": "",
+            "process": "Why EA? It Contains vitamin B3, B2 and Potassium. You suffer no insomnia when enjoying it because the stimulating substance caffeine has been removed from the beans prior to roasting. Patients with cardiovascular conditions can drink coffee with no secondary effects like cardiac arrhythmia tachycardia. Improves the metabolism in the brain and helps patients with Diabetes II. Decaffeinated coffee aids in the digestive process, and is, in itself, easy to digest because the natural waxes have been stripped.",
+            "cupping_notes": "",
+            "about": "This is a natural spring water – Ethyl Acetate (EA) combined process. This substance is naturally present in every coffee bean (as well as many fruits and vegetables), therefore no addition of foreign substances takes place. This substance is obtained from the sugar cane industry around Palmira, Colombia and no chemicals are added to the beans. The Decaf Plant works exclusively with this natural origin solvent and fresh spring water for their caffeine stripping process. The water-EA process allows for gentle caffeine extraction from the bean avoiding excessive heat and pressure thus retaining the natural structure of the coffee bean cells.",
+            "image_url": ""
+        },
+        {
+            "id": 4,
+            "name": "Costa Rican - Tarrazu",
+            "price": 13.00,
+            "origin": "Costa Rica",
+            "location": "Tarraz",
+            "altitude": "",
+            "process": "",
+            "cupping_notes": "Floral, citrus and soft fruit, with a hint of caramel and chocolate. Clean and rich – full bodied.",
+            "about": "Tarrazu is celebrated as the region in Costa Rica for the best volcanic soils and highest altitudes. Because they grow at high altitudes and on volcanic soil, the cherries ripen more slowly which gives this coffee a rich and hearty flavor.",
+            "image_url": ""
+        },
+        {
+            "id": 5,
+            "name": "Ethiopian - Yigracheffe",
+            "price": 13.00,
+            "origin": "Ethiopia",
+            "location": "Kochere, Yigracheffe",
+            "altitude": "1900-2000 meters",
+            "process": "Washed",
+            "cupping_notes": "Floral, Honey, Cherry, Nice Body",
+            "about": "This exceptionally complex Ethiopian, from the Kochere region of Yirgacheffe, is the product of many small farmers’ heirloom varietal coffee being processed immaculately. The aroma of black tea, peach sweetness, and grapefruit acidity. Ethiopian Yirgacheffe is said to be the finest of Ethiopian coffees.",
+            "image_url": ""
+        },
+        {
+            "id": 6,
+            "name": "Guatemalan - Antigua",
+            "price": 13.00,
+            "origin": "Guatemala",
+            "location": "Antigua",
+            "altitude": "",
+            "process": "",
+            "cupping_notes": "Aromatic, smoky, spicy.",
+            "about": "",
+            "image_url": ""
+        },
+        {
+            "id": 7,
+            "name": "Kenya - AA",
+            "price": 15.00,
+            "origin": "Kenya",
+            "location": "",
+            "altitude": "",
+            "process": "",
+            "cupping_notes": "Great acidity, fruit and grape.",
+            "about": "",
+            "image_url": ""
+        },
+        {
+            "id": 8,
+            "name": "Papua New Guinea",
+            "price": 13.00,
+            "origin": "Papua New Guinea",
+            "location": "",
+            "altitude": "",
+            "process": "",
+            "cupping_notes": "Bold flavor. Sweet, acidic, and fruity, with a medium to strong body and slightly creamy, smooth finish.",
+            "about": "Original seedlings were from Jamaica Blue Mountain planted in 1926/27",
+            "image_url": ""
+        }
+    ],
+    "promo": [
+        {
+            "id": 1,
+            "name": "Monthly Coffee",
+            "price": 20.00,
+            "cupping_notes": "",
+            "about": "Enjoy fresh coffee every month by choosing the number of 14oz bags you go through each month. The selection of beans will be randomly selected based on the season in which the beans are the freshest.",
+            "image_url": ""
+        },
+        {
+            "id": 2,
+            "name": "Breakfast Blend",
+            "price": 13.00,
+            "cupping_notes": "Balanced, medium body. Hints of cocoa and caramel flavors with a refreshing finish reminiscent of fruit flavors.",
+            "about": "Jim Bean Coffee breakfast beans are a carefully selected blend of premium arabica coffee beans from multiple origins that are specifically roasted at different levels to compliment one another for a lively, bright and smooth morning taste.",
+            "image_url": ""
+        }
+    ]
+}
