@@ -104,7 +104,7 @@
             "price": 20.00,
             "cupping_notes": "",
             "about": "Enjoy fresh coffee every month by choosing the number of 14oz bags you go through each month. The selection of beans will be randomly selected based on the season in which the beans are the freshest.",
-            "image_url": "images/coffee/breakfast-blend.jpg"
+            "image_url": "images/promo/breakfast-blend.jpg"
         },
         {
             "id": 2,
@@ -112,7 +112,7 @@
             "price": 13.00,
             "cupping_notes": "Balanced, medium body. Hints of cocoa and caramel flavors with a refreshing finish reminiscent of fruit flavors.",
             "about": "Jim Bean Coffee breakfast beans are a carefully selected blend of premium arabica coffee beans from multiple origins that are specifically roasted at different levels to compliment one another for a lively, bright and smooth morning taste.",
-            "image_url": "images/coffee/monthly-coffee.png"
+            "image_url": "images/promo/monthly-coffee.png"
         }
     ]
 }
